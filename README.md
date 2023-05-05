@@ -3,7 +3,7 @@ to conduct statistical test(s) to come to a conclusion regarding the hypothesis.
 that the proportion of nosocomial infections (healthcare-associated infections) that were a result of the patient being infected with Methicillin-resistant 
 *Staphylococcus aureus* (MRSA) was 0.31 (i.e. 31 out of 100 nosocomial infections are the result of MRSA). The prevalence and incidence of
 MRSA in hostpitals has been a cause for concern in the medical field considering that these particular strains of *S. aureus* (bacterial species 
-which is the etiological/causitive agent of staph infection) are resistant to the only antibiotic that would be germicidal for them (i.e. methinicillin).
+which is the etiological/causitive agent of staph infection) are resistant to the only antibiotic that would be germicidal for them (i.e. methiicillin).
 The null hypothesis, as aforementioned, was p = 0.31.
 The alternative hypothesis was that p > 0.31, making this a right-tailed test and requiring a 1-proportion z-test to test against the signifigance level of
 α = 0.05. 
