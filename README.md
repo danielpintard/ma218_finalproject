@@ -1,4 +1,4 @@
-This project was for my final as apart of my MA218 - Probability and Statistics course. I was to come up with a hypothesis and find a dataset and 
+This project was for my final as apart of my MA218 - Probability and Statistics course. I was to come up with a hypothesis and find a dataset 
 to conduct statistical test(s) to come to a conclusion regarding the hypothesis. As for this project, after reviewing literature, I hypothesized 
 that the proportion of nosocomial infections (healthcare-associated infections) that were a result of the patient being infected with Methicillin-resistant 
 *Staphylococcus aureus* (MRSA) was 0.31 (i.e. 31 out of 100 nosocomial infections are the result of MRSA). The prevalence and incidence of
